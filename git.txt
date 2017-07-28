@@ -2,7 +2,13 @@ git is a version control system.
 git is free software.
 add
 add something
+<<<<<<< HEAD
 kkkk
 冲突了conflict
 增加conflit
 bukengnengba  owj 
+=======
+冲突了conflict
+fjaoe gme gao de a 
+wo shi quan 
+>>>>>>> 841b8fdf1b34fee4cf763dbe5b0e38c885911b0a
